@@ -1,3 +1,6 @@
+<?php
+  require "conn/sign.php";
+ ?>
 <!DOCTYPE html>
 <html>
   <head>
